@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.xlsx
+*.txt
+src/debug_issues.ts
+data/students/
